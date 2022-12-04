@@ -20,4 +20,3 @@ The Inter-American Development Bank (IDB) believes that new methods beyond tradi
 * Remove null value rows of the target variable.
 * Predict the accuracy using random forest classifier. (Try other models too)
 * Check the accuracy using a random forest with cross-validation. (k-fold)
-![image](https://user-images.githubusercontent.com/61792153/205467299-0bfe6cc6-0a09-4d3e-9709-90cd6da223a0.png)
